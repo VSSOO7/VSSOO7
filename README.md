@@ -2,13 +2,14 @@
 
 # Vaibhav Shingade
 
-### Python Developer | Data Science Learner | AI/ML Enthusiast
+### Data Scientist | Python | Data Analytics | Machine Learning
 
 <p>
   <a href="https://github.com/VSSOO7"><img src="https://img.shields.io/badge/GitHub-VSSOO7-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/vaibhav-shingade-9512a7230"><img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Shingade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<p><i>Turning curiosity into useful software, one project and one commit at a time.</i></p>
+<p><i>Building data-driven solutions that turn information into useful decisions.</i></p>
 
 </div>
 
@@ -16,56 +17,81 @@
 
 ## About Me
 
-- I am Vaibhav, a developer building a strong foundation in Python and data science.
-- I enjoy learning by making practical projects and documenting the journey in code.
-- I am currently exploring data structures, analytics, machine learning, and full-stack applications.
-- I care about readable code, steady progress, and understanding how things work under the hood.
-- Open to collaboration, learning opportunities, internships, and interesting technical problems.
+I am a results-driven Data Scientist with 3+ years of experience working with data, analytics, and machine learning. I enjoy translating messy real-world problems into clear analysis, useful models, and practical software.
 
-## Current Focus
+- Data Scientist at [Wayzon Technology Services Pvt. Ltd.](https://www.linkedin.com/company/wayzon-technology-services/)
+- Experienced across data science, analytics, Python development, and machine learning workflows
+- Interested in solving practical problems with thoughtful analysis and reliable code
+- Based in Mumbai, Maharashtra, India
+- Open to meaningful collaborations and data-focused opportunities
+
+## Career Snapshot
 
 ```text
-Python fundamentals       [##########..........] Active
-Data structures            [########............] Learning
-Data analysis              [######..............] Building
-Machine learning           [####................] Exploring
-Full-stack development     [#####...............] Practicing
-Open-source contribution  [###.................] Starting
+Data Science               [####################] Active
+Python Development         [##################..] Active
+Data Analytics             [#################...] Active
+Machine Learning           [##############......] Building
+Software Projects          [#############.......] Practicing
+Open Source                [######..............] Growing
 ```
+
+## Experience
+
+### Data Scientist | Wayzon Technology Services Pvt. Ltd.
+
+`Apr 2023 - Present`
+
+Working with data science and analytics problems, developing practical technical solutions, and continuing to deepen expertise in Python, machine learning, and data-driven decision-making.
+
+### Data Science Intern | Wayzon Technology Services Pvt. Ltd.
+
+`Feb 2022 - Apr 2023`
+
+Built professional experience in data science workflows and developed the foundation for a career focused on analytics, machine learning, and applied problem solving.
+
+## Education
+
+| Institution | Qualification | Period |
+| --- | --- | --- |
+| B. K. Birla College (Autonomous), Kalyan | Master of Science | 2024 - 2026 |
+| Ramanand Arya D.A.V. College | Bachelor of Science | Completed |
 
 ## Tech Stack & Tools
 
 | Area | Technologies |
 | --- | --- |
 | Languages | Python, JavaScript, HTML, CSS |
-| Data & AI | NumPy, Pandas, Jupyter Notebook, scikit-learn |
-| Web | React, Node.js, REST APIs |
+| Data Science | NumPy, Pandas, Jupyter Notebook, scikit-learn |
+| Machine Learning | Supervised learning, model evaluation, feature engineering |
+| Web & Applications | React, Node.js, REST APIs |
 | Databases | SQL, MongoDB |
 | Version Control | Git, GitHub |
 | Tools | VS Code, Google Colab, Linux |
 
-## Skills I Am Building
+## Core Skills
 
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-Learning-2E7D32?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Exploring-F7931E?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Data%20Science-3776AB?style=flat-square&logo=python&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Active-2E7D32?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Experienced-F7931E?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-Working%20Knowledge-013243?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-Working%20Knowledge-150458?style=flat-square&logo=pandas)
 ![SQL](https://img.shields.io/badge/SQL-Practicing-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Comfortable-F05032?style=flat-square&logo=git&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Improving-6A1B9A?style=flat-square)
 
 ## Featured Repositories
 
 ### [Python Practice](https://github.com/VSSOO7/Python_Practice)
 
-Daily Python practice, experiments, and small exercises that build fluency from the ground up.
+Python exercises and practice work that keep the fundamentals sharp and support continued growth as a data scientist.
 
 ### [Data Science Practice](https://github.com/VSSOO7/DS_practice)
 
-Hands-on work with data analysis, notebooks, visualization, and the tools behind practical data science.
+Hands-on data science work covering analysis, notebooks, experimentation, and the tools used to learn from data.
 
 ### [E-commerce](https://github.com/VSSOO7/ecom)
 
-An application project exploring the shape of a real-world e-commerce experience.
+An application project exploring the structure and implementation of an e-commerce experience.
 
 ## GitHub Statistics
 
@@ -96,17 +122,18 @@ An application project exploring the shape of a real-world e-commerce experience
   <img src="https://raw.githubusercontent.com/VSSOO7/VSSOO7/output/github-contribution-grid-snake.svg" alt="Contribution snake animation">
 </div>
 
-## Goals
+## Current Direction
 
-- Build and deploy useful data-driven applications.
-- Turn consistent practice into strong Python and problem-solving fundamentals.
-- Learn machine learning through projects with real data.
-- Make my first meaningful open-source contributions.
+- Applying data science and machine learning to practical problems
+- Strengthening production-quality Python and analytics workflows
+- Building projects that show both technical depth and useful outcomes
+- Sharing work publicly and growing through consistent experimentation
 
 ## Connect With Me
 
 <div align="center">
-  <a href="https://github.com/VSSOO7"><img src="https://img.shields.io/badge/GitHub-VSSOO7-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/vaibhav-shingade-9512a7230"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/VSSOO7"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 </div>
 
 <div align="center">
