@@ -54,8 +54,8 @@ Built professional experience in data science workflows and developed the founda
 
 | Institution | Qualification | Period |
 | --- | --- | --- |
-| B. K. Birla College (Autonomous), Kalyan | Master of Science | 2024 - 2026 |
-| Ramanand Arya D.A.V. College | Bachelor of Science | Completed |
+| B. K. Birla College (Autonomous), Kalyan | MSc. Data Science and Big Data Analytics | 2024 - 2026 |
+| Ramanand Arya D.A.V. College | BSc I.T. | 2020 - 2023 |
 
 ## Tech Stack & Tools
 
