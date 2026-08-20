@@ -109,7 +109,8 @@ Superpower: Finding patterns in chaotic datasets
 
 | Repository | Focus & Highlights | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 🤖 **[Python-DS-ML](https://github.com/VSSOO7/Python-DS-ML)** | Comprehensive data science & machine learning suite covering exploratory data analysis (EDA), regression, clustering, classification, and deployed interactive apps. | `Python` `Scikit-Learn` `Pandas` `Streamlit` | [View Repository ➔](https://github.com/VSSOO7/Python-DS-ML) |
+| 🚀 **[Deployed_Models](https://github.com/VSSOO7/Deployed_Models)** | Interactive Streamlit web applications deploying trained models for MPG Regression, KMeans Segmentation, and KNN Classification. | `Streamlit` `Scikit-Learn` `Plotly` `Pickle` | [View Repository ➔](https://github.com/VSSOO7/Deployed_Models) |
+| 🤖 **[Python-DS-ML](https://github.com/VSSOO7/Python-DS-ML)** | Comprehensive data science & machine learning suite covering Python fundamentals, EDA, regression, clustering, and classification. | `Python` `Scikit-Learn` `Pandas` `Jupyter` | [View Repository ➔](https://github.com/VSSOO7/Python-DS-ML) |
 
 <br/>
 
