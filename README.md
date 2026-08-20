@@ -24,6 +24,7 @@
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=VSSOO7&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-38BDF8?style=flat-square" alt="Status" />
   </p>
 
   <p><i>"Transforming messy real-world data into clean models, insightful dashboards, and production-ready applications."</i></p>
@@ -36,18 +37,35 @@
 
 ```yaml
 Name: Vaibhav Shingade
-Role: Data Scientist @ Wayzon Technology Services
+Role: Data Scientist @ Wayzon Technology Services Pvt. Ltd.
 Location: Mumbai, Maharashtra, India 🇮🇳
 Education: MSc. Data Science & Big Data Analytics (B. K. Birla College)
-Focus: Machine Learning, Statistical Modeling, Deep Data Analytics
+Focus: Machine Learning, Statistical Modeling, Predictive Analytics
 Current Obsession: Productionizing ML pipelines & intelligent data apps
 Superpower: Finding patterns in chaotic datasets
 ```
 
 - 🔭 **Currently Working On:** End-to-end machine learning workflows, predictive modeling, and scalable analytics solutions.
 - 💼 **Experience:** 3+ years translating complex business challenges into reliable data-driven decisions.
-- 🎯 **Areas of Interest:** Applied Machine Learning, Unsupervised Clustering, Statistical Computing, and AI Integration.
+- 🎯 **Core Strengths:** Feature Engineering, Regression/Classification, Unsupervised Clustering, and Interactive App Deployment.
 - ⚡ **Fun Fact:** When code doesn't work on the first try, I treat it like a classification problem—hyperparameter tune until convergence!
+
+---
+
+### 🔄 End-to-End ML Workflow
+
+```text
+┌─────────────────┐      ┌─────────────────────────┐      ┌─────────────────────────┐
+│  Data Ingestion │ ──►  │ Feature Engineering     │ ──►  │ Model Architecture     │
+│  & Wrangling    │      │ & Outlier Treatment     │      │ & Hyperparameter Tuning │
+└─────────────────┘      └─────────────────────────┘      └─────────────────────────┘
+                                                                       │
+                                                                       ▼
+┌─────────────────┐      ┌─────────────────────────┐      ┌─────────────────────────┐
+│ Production App  │ ◄──  │ Serialization           │ ◄──  │ Rigorous Evaluation     │
+│ (Streamlit/API) │      │ (Pickle / Joblib)       │      │ & Metric Validation     │
+└─────────────────┘      └─────────────────────────┘      └─────────────────────────┘
+```
 
 ---
 
@@ -60,7 +78,7 @@ Superpower: Finding patterns in chaotic datasets
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
 | **Data Science & ML** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=black) |
 | **Data Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
-| **Web & Deployment** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Web & Deployment** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | **Databases & Tools** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
 </div>
@@ -85,47 +103,20 @@ Superpower: Finding patterns in chaotic datasets
 
 ---
 
-### 🌟 Featured Repositories
+### 🌟 Featured Public Repositories
 
 <div align="center">
 
-| Project | Description | Link |
-| :--- | :--- | :---: |
-| 📊 **DS Practice** | Hands-on data science workflows covering EDA, feature engineering, and statistical modeling. | [Explore Repo ➔](https://github.com/VSSOO7/DS_practice) |
-| 🐍 **Python Practice** | Core algorithms, data structures, and practical scripts sharpening developer fundamentals. | [Explore Repo ➔](https://github.com/VSSOO7/Python_Practice) |
-| 🛍️ **E-Commerce Application** | Full-stack e-commerce project exploring scalable application structure and implementation. | [Explore Repo ➔](https://github.com/VSSOO7/ecom) |
+| Repository | Focus & Highlights | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| 🤖 **[Python-DS-ML](https://github.com/VSSOO7/Python-DS-ML)** | Comprehensive data science & machine learning suite covering exploratory data analysis (EDA), regression, clustering, classification, and deployed interactive apps. | `Python` `Scikit-Learn` `Pandas` `Streamlit` | [View Repository ➔](https://github.com/VSSOO7/Python-DS-ML) |
 
-</div>
+<br/>
 
----
+<a href="https://github.com/VSSOO7?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" />
+</a>
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VSSOO7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=VSSOO7&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSSOO7&layout=compact&theme=tokyonight&hide_border=true" width="50%" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VSSOO7&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution activity graph">
-</div>
-
----
-
-### 🏆 Trophies & Activity
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VSSOO7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies">
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://raw.githubusercontent.com/VSSOO7/VSSOO7/output/github-contribution-grid-snake.svg" alt="Contribution snake animation">
 </div>
 
 ---
@@ -140,6 +131,14 @@ Superpower: Finding patterns in chaotic datasets
 
 <br/>
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Daily Dev Joke" />
+```python
+# Daily Dev Philosophy
+while True:
+    try:
+        learn_something_new()
+        build_high_impact_models()
+    except Challenge as e:
+        optimize_and_iterate()
+```
 
 </div>
