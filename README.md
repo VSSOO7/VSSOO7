@@ -37,11 +37,11 @@
 
 ### 🌟 Featured Projects
 
-| Repository | Focus & System Architecture | Key Tech | Link |
+| Repository | Focus & System Architecture | Key Tech | Links |
 | :--- | :--- | :--- | :---: |
-| 🧠 **[groundtruth](https://github.com/VSSOO7/groundtruth)** | **Production RAG over SEC 10-K Filings:** Hybrid vector retrieval (Postgres + pgvector HNSW + FTS RRF), custom-trained XGBoost LambdaMART reranker, citation grounding contract, and CI evaluation gates (nDCG@10, MRR). | `RAG` `pgvector` `XGBoost LambdaMART` `FastAPI` `Docker` `Prometheus` | [Explore ➔](https://github.com/VSSOO7/groundtruth) |
-| 🚀 **[Deployed_Models](https://github.com/VSSOO7/Deployed_Models)** | **Interactive ML Inference Apps:** Production-ready Streamlit web applications deploying trained models for MPG Regression, KMeans Demographic Segmentation, and KNN Social Ad Classification. | `Streamlit` `Scikit-Learn` `Plotly` `Pickle` | [Explore ➔](https://github.com/VSSOO7/Deployed_Models) |
-| 🤖 **[Python-DS-ML](https://github.com/VSSOO7/Python-DS-ML)** | **Foundational ML & Analytics:** Comprehensive workspace documenting exploratory data analysis (EDA), data wrangling, feature engineering, and statistical modeling algorithms. | `Python` `Pandas` `NumPy` `Scikit-Learn` `Jupyter` | [Explore ➔](https://github.com/VSSOO7/Python-DS-ML) |
+| 🧠 **[groundtruth](https://github.com/VSSOO7/groundtruth)** | **Production RAG over SEC 10-K Filings:** Hybrid vector retrieval (Postgres + pgvector HNSW + FTS RRF), custom-trained XGBoost LambdaMART reranker, citation grounding contract, and CI evaluation gates (nDCG@10, MRR). | `RAG` `pgvector` `XGBoost LambdaMART` `FastAPI` `Docker` `Prometheus` | [🌐 **Live App**](https://groundtruth-yrkawubcvnqfwplwr6h7uo.streamlit.app/)<br/>[📂 **Code** ➔](https://github.com/VSSOO7/groundtruth) |
+| 🚀 **[Deployed_Models](https://github.com/VSSOO7/Deployed_Models)** | **Interactive ML Inference Apps:** Production-ready Streamlit web applications deploying trained models for MPG Regression, KMeans Demographic Segmentation, and KNN Social Ad Classification. | `Streamlit` `Scikit-Learn` `Plotly` `Pickle` | [📂 **Explore** ➔](https://github.com/VSSOO7/Deployed_Models) |
+| 🤖 **[Python-DS-ML](https://github.com/VSSOO7/Python-DS-ML)** | **Foundational ML & Analytics:** Comprehensive workspace documenting exploratory data analysis (EDA), data wrangling, feature engineering, and statistical modeling algorithms. | `Python` `Pandas` `NumPy` `Scikit-Learn` `Jupyter` | [📂 **Explore** ➔](https://github.com/VSSOO7/Python-DS-ML) |
 
 ---
 
