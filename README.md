@@ -28,7 +28,7 @@
 
 ### 👨‍💻 Quick Summary
 
-- 💼 **Data Scientist / AI Engineer** at [Wayzon Technology Services Pvt. Ltd.](https://www.linkedin.com/company/wayzon-technology-services/) (3+ years building data science & ML solutions).
+- 💼 **Data Scientist** at [Wayzon Technology Services Pvt. Ltd.](https://www.linkedin.com/company/wayzon-technology-services/) (3+ years building data science & ML solutions).
 - 🎓 **MSc. Data Science & Big Data Analytics** candidate at B. K. Birla College (Autonomous), Mumbai (2024–2026).
 - 🛠️ **Core Expertise:** Production RAG Pipelines, Hybrid Vector Search (pgvector + FTS), Trained Rerankers (LambdaMART), End-to-End MLOps, and Predictive Modeling.
 - 📍 **Location:** Mumbai, Maharashtra, India.
